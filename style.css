@@ -300,3 +300,8 @@ a.info-row:hover { border-color: var(--primary); transform: translateX(4px); }
   .dot { left: -28px; }
   .footer-inner { justify-content: center; text-align: center; }
 }
+
+.avatar-ring img{
+  object-fit: cover;
+  border-radius: 50%;
+}

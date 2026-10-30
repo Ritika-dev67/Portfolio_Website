@@ -2,7 +2,7 @@
 
 A responsive personal portfolio website for **Ritika Ranjan**, a final year B.Tech CSE student and aspiring web developer. It showcases skills, experience, projects and education, with a one-click resume download and a contact form.
 
-**Live demo:** _add your deployed link here_
+**Live demo:** (https://portfolio-jo7dukgaz-ritika-dev67s-projects.vercel.app)
 
 ## Features
 
@@ -40,7 +40,7 @@ portfolio/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ritika-dev67/<your-repo-name>.git
+   git clone <your-repo-name>.git
    cd <your-repo-name>
    ```
 2. Open `index.html` in your browser. No installation needed.
