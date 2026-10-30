@@ -2,7 +2,7 @@
 
 A responsive personal portfolio website for **Ritika Ranjan**, a final year B.Tech CSE student and aspiring web developer. It showcases skills, experience, projects and education, with a one-click resume download and a contact form.
 
-**Live demo:** _add your deployed link here_
+**Live demo:** https://portfolio-theta-virid-33.vercel.app/
 
 ## Features
 
