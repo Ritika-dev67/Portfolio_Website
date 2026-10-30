@@ -52,13 +52,6 @@ portfolio/
 - **Contact form:** by default it opens the visitor's email app. To receive messages directly, create a form at [Formspree](https://formspree.io) and paste the endpoint into `FORM_ENDPOINT` in `script.js`.
 - **Colors:** edit the CSS variables at the top of `style.css`.
 
-## Deployment
-
-Hosted for free on any static host:
-
-- **GitHub Pages:** Settings → Pages → select the `main` branch and `/ (root)`
-- **Netlify** or **Vercel:** import the repository, no build command needed
-
 ## Contact
 
 - Email: ritika2002ranjanjha@gmail.com
